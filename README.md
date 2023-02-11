@@ -60,19 +60,19 @@
 ```
 4.加载对应的视频文件，找到需要处理的关键帧后点击Intercept进入Annotation界面  
 
-![pic3](https://github.com/WddBlessU/EasyVideoPlayer/tree/main/Image/gif_01.gif)   
+![pic3](https://github.com/WddBlessU/EasyVideoPlayer/blob/main/Image/gif_01.gif)   
 
 5.点击Annotation按钮后按住右键拖动可以绘制Bounding Box，之后在下方键入label内容  
 
-![pic4](https://github.com/WddBlessU/EasyVideoPlayer/tree/main/Image/gif_02.gif)   
+![pic4](https://github.com/WddBlessU/EasyVideoPlayer/blob/main/Image/gif_02.gif)   
 
 6.点击Measurement按钮后右键点击两次可以绘制Crack Distance线，上方可以切换结果为公制或英制  
 
-![pic5](https://github.com/WddBlessU/EasyVideoPlayer/tree/main/Image/gif_03.gif)   
+![pic5](https://github.com/WddBlessU/EasyVideoPlayer/blob/main/Image/gif_03.gif)   
 
 7.点击Load按钮，可以加载3D点云数据(与加载视频文件相互独立)，点击Camera可以切换到点云相机  
 
-![pic6](https://github.com/WddBlessU/EasyVideoPlayer/tree/main/Image/gif_04.gif)   
+![pic6](https://github.com/WddBlessU/EasyVideoPlayer/blob/main/Image/gif_04.gif)   
 
 
 
