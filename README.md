@@ -5,6 +5,7 @@
 主要包含显示视频、渲染3D点云、视频关键帧的Annotation三部分功能  
 此程序仅为功能演示Demo，故没有实现输入输出API，请利用文件系统进行测试  
 
+实现细节见脚本内注释
 
 
 ## 目录结构
@@ -49,9 +50,9 @@
 1.进入build目录    
 2.将按照规范命名的采样视频、深度数据和3D点云数据放置于Input目录  
 
-![pic1](https://github.com/WddBlessU/EasyVideoPlayer/tree/main/Image/01.png)    
+![pic1](https://github.com/WddBlessU/EasyVideoPlayer/blob/main/Image/01.png)    
 
-![pic2](https://github.com/WddBlessU/EasyVideoPlayer/tree/main/Image/02.png)    
+![pic2](https://github.com/WddBlessU/EasyVideoPlayer/blob/main/Image/02.png)    
  
 3.执行根目录的exe文件  
 
